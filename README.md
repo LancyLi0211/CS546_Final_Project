@@ -2,7 +2,7 @@
 This is Sit CS546 team project repo
 
 [中文说明](#Chinese)
-
+<br></br>
 [English Instruction](#English)
 
 <p id="English"></p> 
