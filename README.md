@@ -10,23 +10,19 @@ This is Sit CS546 team project repo
 ## English Instruction
 {Project Name: Stray Animal Information Application}
 
-Group members：
+### Group members：
 
-Youlin Chen
-
-Chunzhi Li
-
-Siyan Liu
-
-Yetong Chen
-
-Wei Guo
+- Youlin Chen
+- Chunzhi Li
+- Yetong Chen
+- Wei Guo
+- Siyan Liu
 
 NOTION: seed.js may take about ten seconds to run, please be patient
 
-## Installation/How To Run
+### Installation/How To Run
 
-### Dependencies
+#### Dependencies
 
 Before downloading this program, you'll need to install the following items to your computer:
 
@@ -109,3 +105,10 @@ publicMethods(function convertLocation())
 <p id="Chinese"></p> 
 
 ## 中文说明
+{项目名称: 流浪动物信息应用}
+### 团队成员
+- 陈宥林
+- 李淳智
+- 陈烨桐
+- 郭威
+- 刘思言
