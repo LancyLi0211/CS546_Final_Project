@@ -1,9 +1,12 @@
 # 546_Final_Project
 This is Sit CS546 team project repo
 
-## 中文说明
 [中文说明](#Chinese)
+[English Instruction](#English)
 
+<p id="English"></p> 
+
+## English Instruction
 {Project Name: Stray Animal Information Application}
 
 Group members：
