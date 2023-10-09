@@ -1,5 +1,7 @@
 # 546_Final_Project
 This is Sit CS546 team project repo
+## 中文说明
+[中文说明](#Chinese)
 
 {Project Name: Stray Animal Information Application}
 
@@ -98,3 +100,7 @@ test.handlebars(map)
 postDetails.handlebarS(map)
 
 publicMethods(function convertLocation())
+
+<p id="Chinese"></p> 
+
+## 中文说明
