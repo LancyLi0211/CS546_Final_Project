@@ -39,7 +39,7 @@ Before downloading this program, you'll need to install the following items to y
 
 #### Run
 
-1. If MongoDB is not running, turn it on.(**_MongoDB must be running on your machine before you can use the website._** If you installed MongoDB as a service, it will always run in the background, but otherwise, you need to run it manually.)
+1. If MongoDB is not running, turn it on.(**_MongoDB must be running on your machine before you can use the website._** If you installed MongoDB as a service, it will always run in the background, but otherwise, you need to run cmd using **net start MongoDB** and using **net stop MongoDB** to stop)
 2. Run _npm start_ to start the web server on your computer.
 3. Follow the output instructions to see the website.
 
