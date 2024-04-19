@@ -1,13 +1,7 @@
 # 546_Final_Project
 This is Sit CS546 team project repo
 
-[中文说明](#Chinese)
-<br></br>
-[English Instruction](#English)
-
-<p id="English"></p> 
-
-## English Instruction
+## Instruction
 {Project Name: Stray Animal Information Application}
 
 ### Group members：
@@ -101,14 +95,3 @@ test.handlebars(map)
 postDetails.handlebarS(map)
 
 publicMethods(function convertLocation())
-
-<p id="Chinese"></p> 
-
-## 中文说明
-{项目名称: 流浪动物信息应用}
-### 团队成员
-- 陈宥林
-- 李淳智
-- 陈烨桐
-- 郭威
-- 刘思言
